@@ -1,0 +1,7 @@
+# Neovim editor state
+*.swp
+*.swo
+*.bak
+*~
+.DS_Store
+Session.vim
