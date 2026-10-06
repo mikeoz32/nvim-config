@@ -1,6 +1,7 @@
 require("config.options")
 require("config.keymaps")
 require("config.pack")
+require("config.filetypes")
 
 require("plugins.colorscheme")
 require("plugins.treesitter")
